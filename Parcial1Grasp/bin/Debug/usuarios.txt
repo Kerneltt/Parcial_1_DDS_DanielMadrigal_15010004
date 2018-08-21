@@ -1,0 +1,5 @@
+Daniel|prueva1|admin|
+Pedro|contrase�a|local|
+Andres|nada|admin|
+loraine|todo|local|
+luis|contre|gerente|

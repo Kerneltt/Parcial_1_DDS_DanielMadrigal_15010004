@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\bin\Debug\Parcial1Grasp.exe.config
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\bin\Debug\Parcial1Grasp.exe
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\bin\Debug\Parcial1Grasp.pdb
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.Form1.resources
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.exe
+C:\Users\Daniel\Desktop\Uni 2018 S02\Diseño de software\Parcial1Grasp\Parcial1Grasp\obj\Debug\Parcial1Grasp.pdb

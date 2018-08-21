@@ -1,0 +1,7 @@
+Usuario:
+Daniel
+Codigo:
+prueva1
+
+EXE:
+\Parcial1Grasp\Parcial1Grasp\bin\Debug
